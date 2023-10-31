@@ -1,3 +1,4 @@
 # FastApiMicroservices-
 Microservices with FastAPI
-![My Image](image/Archi.png)
+
+![My Image](images/Archi.png)
